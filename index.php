@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Word é nois caralho!"
+echo "OlÃ¡!"
 
 ?>
